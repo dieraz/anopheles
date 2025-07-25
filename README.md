@@ -23,7 +23,7 @@ install.packages(c(
   "raster", "sp", "sf", "dismo", "gbm", "blockCV",
   "stringr", "dplyr", "RColorBrewer", "readxl"
 ))
-
+```
 ## Data
 
 Occurrence: data/data_Ansteph2.csv
@@ -32,10 +32,3 @@ Background: data/background_not_stephensi.csv
 
 Environmental variables: ISIMIP3a datasets, LUH2 land-use rasters in env_data folder
 
-References
-Leroi et al. (2018) Journal of Biogeography
-
-Li & Guo (2013) Ecography
-
-License
-MIT License
